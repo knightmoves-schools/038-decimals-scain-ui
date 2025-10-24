@@ -1,6 +1,7 @@
-var lenghtInFeet = 1.5;
+var lengthInFeet = 1.5;
 var pricePerFoot = 2.50;
-var totalPrice = lenghtInFeet * pricePerFoot;
+var totalPrice = lengthInFeet * pricePerFoot;
 document.getElementById("result").innerHTML = totalPrice;
+
 
 
